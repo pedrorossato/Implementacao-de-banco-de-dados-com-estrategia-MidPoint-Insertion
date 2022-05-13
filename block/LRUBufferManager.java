@@ -23,7 +23,7 @@ public class LRUBufferManager implements BufferManager{
     
     LinkedList<Block> blocksList = new LinkedList();
     
-    
+
     
     @Override
     public void clear(){
